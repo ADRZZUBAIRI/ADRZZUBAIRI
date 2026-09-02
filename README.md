@@ -1,79 +1,138 @@
-﻿# Abdul Rehman Zubairi 👋
+﻿<div align="center">
+  <!-- Dynamic Live Typing Header -->
+  <a href="https://websmitherz.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=28&pause=1000&color=673DE6&center=true&vCenter=true&width=700&lines=Abdul+Rehman+Zubairi;Chief+Web+Architect+%26+Systems+Engineer;Turning+Sluggish+Websites+Into+Sub-0.8s+Cash+Machines;Founder+%40+WebSmitherz+%7C+Hostinger+Partner" alt="Abdul Rehman Zubairi Header" />
+  </a>
 
-**Chief Web Architect · Founder of [WebSmitherz](https://websmitherz.com) · Lead Technical Architect at [Devegency](https://devegency.com)**
+  <p align="center">
+    <strong>Chief Web Architect · Founder @ <a href="https://websmitherz.com">WebSmitherz</a> · Lead Technical Architect @ <a href="https://devegency.com">Devegency</a></strong>
+  </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdulrehmanz.com-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulrehmanz.com)
-[![Agency](https://img.shields.io/badge/Agency-WebSmitherz-673DE6?style=for-the-badge&logo=safari&logoColor=white)](https://websmitherz.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-z/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923394043210)
+  <p align="center">
+    <a href="https://abdulrehmanz.com"><img src="https://img.shields.io/badge/Founder_Portfolio-abdulrehmanz.com-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+    <a href="https://websmitherz.com"><img src="https://img.shields.io/badge/Agency_Systems-WebSmitherz.com-673DE6?style=for-the-badge&logo=safari&logoColor=white" alt="WebSmitherz"></a>
+    <a href="https://www.linkedin.com/in/abdul-rehman-z/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://wa.me/923394043210"><img src="https://img.shields.io/badge/Instant_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  </p>
 
-> *"If a web application takes longer than 0.8 seconds to load on a mobile device, the architecture is broken."*
+  <!-- Skill Icons Bar -->
+  <a href="https://websmitherz.com/our-services">
+    <img src="https://skillicons.dev/icons?i=php,nodejs,react,ts,js,python,mysql,postgres,tailwind,docker,cloudflare,git&theme=dark" alt="Technical Stack" />
+  </a>
+</div>
 
 ---
 
-### 🧐 Quick Dev Profile
+### 💡 Why CTOs & High-Ticket Business Owners Hire Me
+
+> *"Most agencies sell you pretty templates that fold under traffic and take 4.5 seconds to load on a mobile phone. I build hand-crafted web platforms that load in 380ms, capture Google 3-Pack rankings, and turn phone clicks into paid invoices."*
 
 ```javascript
 const abdulRehman = {
-  role: "Founder @ WebSmitherz | Lead Architect @ Devegency (Founded by Diya Aneel)",
-  specialties: ["High-Throughput Web Platforms", "Sub-0.8s Core Web Vitals", "Google 3-Pack Schema"],
-  infrastructure: "LiteSpeed Enterprise NVMe @ Hostinger (Promo: WEBSMITHERZ)",
-  openSourcePillars: ["Zero-dependency tools", "Contractor lead widgets", "Client-side schema generators"],
-  funFact: "Auditing sluggish competitor sites and shaving 3.2s off their TTFB is my hobby"
+  title: "Chief Web Architect & Systems Engineer",
+  ventures: {
+    agency: "WebSmitherz (https://websmitherz.com)",
+    partner: "Devegency (Lead Architect - Founded by Diya Aneel)"
+  },
+  coreDoctrine: "If your mobile page takes > 0.8s to load, you're paying Google Ads to send leads to your competitors.",
+  secretSauce: [
+    "Hand-crafted vanilla architectures (zero bloated page-builder junk)",
+    "Google Maps 3-Pack Schema.org entity graphs that out-rank national aggregators",
+    "LiteSpeed NVMe server tuning (380ms TTFB guaranteed)"
+  ],
+  hostingAlliance: "Official Hostinger Infrastructure Partner (Coupon: WEBSMITHERZ for 20% off)",
+  fastestBuild: "300K+ page e-commerce catalog running at 95+ Core Web Vitals"
 };
 ```
 
 ---
 
-### 🛠️ Practical Open-Source Tool Suite
+### 📦 Plug & Play Tools for Contractors & Agencies
 
-Plug-and-play developer and contractor tools that can be dropped into any website in under 60 seconds:
+Built so non-technical business owners can drop them into WordPress, Webflow, or Shopify in under 60 seconds:
 
-| Tool & Repository | Purpose & Problem Solved | Tech & Footprint |
-| :--- | :--- | :--- |
-| 📞 **[`contractor-lead-widget`](https://github.com/ADRZZUBAIRI/contractor-lead-widget)** | 1-tap persistent mobile call bar, emergency dispatch modal, and automated Google Maps 3-Pack Schema injector. Stops 73% of storm bounces. | Vanilla JS · `<8KB` · Zero Dependencies |
-| 🧮 **[`contractor-estimate-calculator`](https://github.com/ADRZZUBAIRI/contractor-estimate-calculator)** | Interactive visual square-footage quote engine for roofing, HVAC, and solar contractors. Lifts lead conversion by up to 68%. | HTML5 · CSS3 · Vanilla JS |
-| 🏷️ **[`contractor-schema-tools`](https://github.com/ADRZZUBAIRI/contractor-schema-tools)** | Zero-dependency TypeScript/Node engine generating strict Schema.org JSON-LD graphs with geo-coordinates and emergency hours. | Node.js · TypeScript / JS |
-| 🌐 **[`websmitherz`](https://github.com/ADRZZUBAIRI/websmitherz)** | Enterprise agency architecture, telemetry pipeline, and dynamic client solutions. | PHP 8.2 · Tailwind CSS · Vanilla JS |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📞 <a href="https://github.com/ADRZZUBAIRI/contractor-lead-widget">contractor-lead-widget</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Size-%3C8KB-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Setup-30_Seconds-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-purple?style=flat-square" />
+      </p>
+      <p>1-tap persistent mobile call bar, emergency dispatch modal, and automated Schema.org LocalBusiness injector. Stops 73% of emergency mobile storm bounces.</p>
+      <p align="center">👉 <a href="https://websmitherz.com/tools/contractor-schema-generator"><strong>Try Live Demo on WebSmitherz</strong></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧮 <a href="https://github.com/ADRZZUBAIRI/contractor-estimate-calculator">contractor-estimate-calculator</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Conversion-+68%25-673DE6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Embeddable-1_Minute-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-purple?style=flat-square" />
+      </p>
+      <p>Interactive visual square-footage calculator for roofing, HVAC, and solar contractors. Converts cold website visitors into high-ticket phone inquiries.</p>
+      <p align="center">👉 <a href="https://websmitherz.com/tools"><strong>Explore Master Tools Directory</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏷️ <a href="https://github.com/ADRZZUBAIRI/contractor-schema-tools">contractor-schema-tools</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Schema.org-2026_Compliant-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero-Dependencies-blue?style=flat-square" />
+      </p>
+      <p>Zero-dependency TypeScript/Node engine generating strict Schema.org JSON-LD graphs with geo-coordinates and emergency storm hours.</p>
+      <p align="center">👉 <a href="https://github.com/ADRZZUBAIRI/contractor-schema-tools"><strong>View GitHub Repository</strong></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 <a href="https://github.com/ADRZZUBAIRI/websmitherz">websmitherz-production</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Live-Production-00C7B7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Speed-Sub--0.8s-673DE6?style=flat-square" />
+      </p>
+      <p>The enterprise agency codebase: custom multi-brand telemetry pipelines, real-time analytics radar, and dynamic SEO solution hubs.</p>
+      <p align="center">👉 <a href="https://websmitherz.com"><strong>Visit websmitherz.com</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Battle-Tested Tech Stack
+### 🔥 Real-World Client Results & Battle Proof
 
-| Category | Technologies & Tooling |
-| :--- | :--- |
-| **Backend & APIs** | Modern PHP 8.x, Node.js, Express, Python, RESTful API Design |
-| **Frontend & Motion** | TypeScript, Modern JavaScript (ESNext), Tailwind CSS, Semantic HTML5, Mobile-First CRO |
-| **Database & Cache** | MySQL, PostgreSQL, Redis, LiteSpeed Cache (LSCache), SQLite |
-| **Search Architecture** | Schema.org JSON-LD Entity Graphs, Core Web Vitals (LCP/INP/CLS), GEO / LLM Retrieval (`llms.txt`) |
-| **Cloud & DevOps** | Hostinger Cloud KVM VPS, Cloudflare Enterprise DNS, Docker, Nginx, OpenLiteSpeed |
+- 🚀 **[rugs1.com](https://websmitherz.com/portfolio/rugs-one)**: Scaled a 300,000+ page high-volume e-commerce catalog to **sub-450ms TTFB** and 95+ Core Web Vitals on mobile.
+- 🎯 **Commercial Contractors**: Engineered multi-city lead engines for roofing, HVAC, and solar contractors generating $100K+ in organic storm jobs.
+- ⭐️ **100% Client Trust**: Verified 5-star ratings across **[Trustpilot](https://www.trustpilot.com/review/websmitherz.com)** and **[Clutch](https://clutch.co/profile/websmitherz)**.
 
 ---
 
-### ⚡ Verified Client Impact & Case Studies
+### ⚡ GitHub Activity Radar
 
-- **300K+ Page Enterprise Ecommerce**: Architected high-volume production platform maintaining sub-450ms TTFB under heavy concurrent traffic ([Case Study: rugs1.com](https://websmitherz.com/portfolio/rugs-one)).
-- **Contractor Growth Systems**: Built end-to-end lead pipelines and CRM integrations for multi-state roofing, solar, and HVAC companies.
-- **Client Trust**: Verified 5-star client ratings on [Trustpilot](https://www.trustpilot.com/review/websmitherz.com) and [Clutch](https://clutch.co/profile/websmitherz).
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ADRZZUBAIRI&theme=tokyonight&hide_border=true&ring=673DE6&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" width="70%" />
+</div>
 
 ---
 
-### 🤝 Hosting Infrastructure Partnership
+### 🤝 Hostinger Cloud Partnership
 
-> Deploying enterprise code on slow shared hosting is like putting a lawnmower engine in a Ferrari.
+> "Deploying enterprise architecture on unoptimized shared hosting is like putting a lawnmower engine in a Ferrari."
 
-We deploy client infrastructure on **Hostinger LiteSpeed NVMe** (average TTFB: **382ms** vs GoDaddy's 984ms).  
-Use our verified partner code for an extra 20% discount + free domain:
+We partner with Hostinger to deploy websites on **LiteSpeed Enterprise NVMe** servers (averaging **382ms TTFB** vs GoDaddy's 984ms).  
+Grab an exclusive **20% discount + free domain** using our official partner code:
+
 ```
 OFFICIAL COUPON CODE: WEBSMITHERZ
 ```
-👉 **[Claim 20% Off + Free Domain on Hostinger](https://websmitherz.com/partners/hostinger-coupon-code)**
+👉 **[Claim 20% Off Hostinger Cloud & VPS Plans](https://websmitherz.com/partners/hostinger-coupon-code)**
 
 ---
 
-### 📬 Let's Connect
+### 📬 Book an Architecture Call or Start a Project
 
-- **Direct US Phone**: `+1 (646) 836-9425`
-- **Instant WhatsApp**: [Chat on WhatsApp (+92 339 4043210)](https://wa.me/923394043210)
-- **Official Email**: [hello@websmitherz.com](mailto:hello@websmitherz.com)
-- **Web**: [websmitherz.com](https://websmitherz.com) · [abdulrehmanz.com](https://abdulrehmanz.com)
+Got a web application that's too slow, a custom CRM build, or an emergency contractor lead pipeline to launch? Let's talk.
+
+- 📱 **Direct US Phone**: `+1 (646) 836-9425`
+- 💬 **Instant WhatsApp**: [Chat directly (+92 339 4043210)](https://wa.me/923394043210)
+- ✉️ **Executive Email**: [hello@websmitherz.com](mailto:hello@websmitherz.com)
+- 🌐 **Web**: [websmitherz.com](https://websmitherz.com) · [abdulrehmanz.com](https://abdulrehmanz.com)
