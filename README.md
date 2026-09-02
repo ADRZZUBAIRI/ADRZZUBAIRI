@@ -1,6 +1,6 @@
 ﻿<div align="center">
   <h1>Hi, I'm Abdul Rehman Zubairi 👋</h1>
-  <p><strong>Chief Web Architect & Systems Engineer · Founder of <a href="https://websmitherz.com">WebSmitherz</a> & <a href="https://devegency.com">Devegency</a></strong></p>
+  <p><strong>Chief Web Architect & Systems Engineer · Founder of <a href="https://websmitherz.com">WebSmitherz</a> · Lead Technical Architect at <a href="https://devegency.com">Devegency</a></strong></p>
   <p>
     <a href="https://abdulrehmanz.com"><img src="https://img.shields.io/badge/Portfolio-abdulrehmanz.com-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
     <a href="https://websmitherz.com"><img src="https://img.shields.io/badge/Agency-WebSmitherz-673DE6?style=for-the-badge&logo=safari&logoColor=white" alt="WebSmitherz"></a>
@@ -15,7 +15,7 @@
 
 I design and engineer **high-performance web platforms, multi-tenant CRM systems, and technical search infrastructure** engineered for sub-0.8s mobile response times.
 
-- 🏢 **Founder & Lead Architect**: [WebSmitherz](https://websmitherz.com) (Enterprise Engineering & Technical SEO) & [Devegency](https://devegency.com).
+- 🏢 **Founder & Lead Architect**: [WebSmitherz](https://websmitherz.com) (Enterprise Engineering & Technical SEO) · Lead Technical Architect for [Devegency](https://devegency.com) (Founded by Diya Aneel).
 - ⚡ **Performance Obsessed**: 95+ Core Web Vitals across complex production environments, hand-crafted vanilla architectures, and high-throughput transactional databases.
 - 🛠️ **Open Source & Industry Tooling**: Creator of plug-and-play local lead capture and structured data engines for commercial contractors.
 - 🤝 **Official Hosting Partner**: Hostinger Infrastructure Partner (LiteSpeed NVMe optimization). Use verified partner code **`WEBSMITHERZ`** for 20% off at [WebSmitherz Hostinger Deal](https://websmitherz.com/partners/hostinger-coupon-code).
