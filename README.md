@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <!-- Dynamic Live Typing Header -->
   <a href="https://websmitherz.com">
     <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=28&pause=1000&color=673DE6&center=true&vCenter=true&width=700&lines=Abdul+Rehman+Zubairi;Chief+Web+Architect+%26+Systems+Engineer;Turning+Sluggish+Websites+Into+Sub-0.8s+Cash+Machines;Founder+%40+WebSmitherz+%7C+Hostinger+Partner" alt="Abdul Rehman Zubairi Header" />
@@ -16,7 +16,7 @@
   </p>
 
   <!-- Skill Icons Bar -->
-  <a href="https://websmitherz.com/our-services">
+  <a href="https://websmitherz.com/pricing/website-packages/">
     <img src="https://skillicons.dev/icons?i=php,nodejs,react,ts,js,python,mysql,postgres,tailwind,docker,cloudflare,git&theme=dark" alt="Technical Stack" />
   </a>
 </div>
@@ -85,13 +85,33 @@ Built so non-technical business owners can drop them into WordPress, Webflow, or
       <p align="center">👉 <a href="https://github.com/ADRZZUBAIRI/contractor-schema-tools"><strong>View GitHub Repository</strong></a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 <a href="https://github.com/ADRZZUBAIRI/websmitherz">websmitherz-production</a></h3>
+      <h3 align="center">🌐 <a href="https://websmitherz.com/pricing/website-packages/">contractor-website-packages</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Live-Production-00C7B7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Rates-From_$999-10B981?style=flat-square" />
         <img src="https://img.shields.io/badge/Speed-Sub--0.8s-673DE6?style=flat-square" />
       </p>
-      <p>The enterprise agency codebase: custom multi-brand telemetry pipelines, real-time analytics radar, and dynamic SEO solution hubs.</p>
-      <p align="center">👉 <a href="https://websmitherz.com"><strong>Visit websmitherz.com</strong></a></p>
+      <p>Custom-engineered trade website rebuild packages. Zero page builders, 100% legal code ownership, and CRM webhook routing.</p>
+      <p align="center">👉 <a href="https://websmitherz.com/pricing/website-packages/"><strong>View Contractor Website Packages</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛠️ <a href="https://websmitherz.com/services/website-maintenance/">contractor-maintenance-sla</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Uptime-99.9%25-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Backups-Daily_AWS-10B981?style=flat-square" />
+      </p>
+      <p>Automated daily cloud backups, sandbox-tested security updates, and &lt;4h developer response SLA for trade businesses.</p>
+      <p align="center">👉 <a href="https://websmitherz.com/services/website-maintenance/"><strong>Explore Maintenance Plans</strong></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚖️ <a href="https://websmitherz.com/compare/scorpion-alternatives-contractors/">scorpion-alternatives</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Equity-Client_Owned-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/No-Monthly_Lease-673DE6?style=flat-square" />
+      </p>
+      <p>Architectural breakdown of proprietary CMS rental traps vs owned code architecture for roofing and HVAC contractors.</p>
+      <p align="center">👉 <a href="https://websmitherz.com/compare/scorpion-alternatives-contractors/"><strong>Read Contractor Comparison</strong></a></p>
     </td>
   </tr>
 </table>
